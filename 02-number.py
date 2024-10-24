@@ -1,0 +1,12 @@
+print(1.01-0.99)
+print(0.1+0.2)
+print(round(0.1+0.2, 1))
+print(3/4)
+print(3//4)
+print(1 % 3)
+print(1 % -3)
+print(4**2)
+print(10**100)
+print(0b110)
+print(0o77)
+print(0x16)git
